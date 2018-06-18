@@ -1,4 +1,4 @@
-import Multistep from 'react-multistep';
+import Multistep from './multiStep';
 import React from 'react';
 import StepOne from './form-steps/step1';
 import StepTwo from './form-steps/step2';
